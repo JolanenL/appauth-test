@@ -1,0 +1,8 @@
+{
+  "client_id": "3cb1afc0-6b30-0137-7a09-0afdb0235a4e149677",
+  "redirect_uri": "http://10.0.2.2:8090/login/oauth2/code/onelogin",
+  "authorization_scope": "openid email profile",
+  "discovery_uri": "https://cloudasset-oy-dev.onelogin.com/oidc/.well-known/openid-configuration",
+  "user_info_endpoint_uri": "https://cloudasset-oy-dev.onelogin.com/oidc/me",
+  "https_required": false
+}
